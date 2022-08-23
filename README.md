@@ -32,5 +32,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik1896&show_icons=true" alt="karthik1896" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik1896&show_icons=true" alt="karthik1896" />
+<a href="https://github.com/karthik1896">
+  <img align="center" height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1896&theme=midnight-purple&layout=compact" />
+</a></p>
