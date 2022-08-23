@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **C#,MySQL,Java and Android Development**
+- 💬 Ask me about ** Java, C#, MySQL and Android Development**
 - 📫 How to reach me **karthik1896@outlook.com** 
 
 ### Languages
