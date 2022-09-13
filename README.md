@@ -5,8 +5,6 @@
 
 ### Talk is cheap, Show me the code. - Linus Torvalds
 
-
-
 - 💬 Ask me about ** Java, C#, MySQL and Android Development**
 - 📫 How to reach me **karthik1896@outlook.com** 
 
